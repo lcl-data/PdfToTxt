@@ -1,0 +1,5 @@
+Project Description
+using PdfBox to convert pdf to txt.
+It is opening source!
+
+There is a NULLReferenceException when a picture in the pdf, that is because i am using PDFBOX to convert, this is a bug for PDFBOX. i will trace this bug in PDFBOX.
