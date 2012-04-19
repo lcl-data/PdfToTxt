@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PdfConverter", "PdfConverter\PdfConverter.vbproj", "{101A858E-8DBC-42F5-810C-732797402280}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccLocalPath1 = PdfConverter
+		SccNumberOfProjects = 2
+		SccProjectName1 = PdfConverter
+		SccProjectUniqueName1 = PdfConverter\\PdfConverter.vbproj
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs25
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{101A858E-8DBC-42F5-810C-732797402280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{101A858E-8DBC-42F5-810C-732797402280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{101A858E-8DBC-42F5-810C-732797402280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{101A858E-8DBC-42F5-810C-732797402280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
